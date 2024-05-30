@@ -28,3 +28,9 @@ This repository contains a Streamlit application that extracts text from PDF doc
 ->FAISS: A library for efficient similarity search and clustering of dense vectors.
 
 ->Python: The primary programming language for the project.
+
+# Use case diagram:
+
+
+
+![WhatsApp Image 2024-05-24 at 14 40 52](https://github.com/Tejaswini-0608/Chat-PDF/assets/100186885/f20a3263-586a-42f8-8d84-b1d7821dca3f)
