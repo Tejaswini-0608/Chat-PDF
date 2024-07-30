@@ -5,29 +5,35 @@ This repository contains a Streamlit application that extracts text from PDF doc
 
 # Features:
 
-  1. PDF Text Extraction: Upload multiple PDF documents and extract their textual content.
+- **PDF Text Extraction**: Upload multiple PDF documents and extract their textual content.
   
-  2. Text Chunking: Split the extracted text into smaller, manageable chunks for efficient processing.
+- **Text Chunking**: Split the extracted text into smaller, manageable chunks for efficient processing.
   
-  3. AI Embeddings: Use Google Generative AI to generate embeddings for the text chunks.
+- **AI Embeddings**: Use Google Generative AI to generate embeddings for the text chunks.
   
-  4. Vector Storage: Store embeddings in a FAISS vector store for efficient retrieval.
+- **Vector Storage**: Store embeddings in a FAISS vector store for efficient retrieval.
   
-  5. Question-Answering: Implement a QA system using Langchain's question-answering chain to respond to user queries based on 
+- **Question-Answering**: Implement a QA system using Langchain's question-answering chain to respond to user queries based on 
     the extracted and processed text.
 
 # Technologies Used:
-->Streamlit: A framework for creating interactive web applications.
+- **Streamlit**: A framework for creating interactive web applications.
 
-->PyPDF2: A library for reading PDF files and extracting text.
+- **PyPDF2**: A library for reading PDF files and extracting text.
 
-->Langchain: Used for text splitting and QA chain implementation.
+- **Langchain**: Used for text splitting and QA chain implementation.
 
-->Google Generative AI: Provides embeddings and chat capabilities.
+- **Google Generative AI**: Provides embeddings and chat capabilities.
 
-->FAISS: A library for efficient similarity search and clustering of dense vectors.
+- **FAISS**: A library for efficient similarity search and clustering of dense vectors.
 
-->Python: The primary programming language for the project.
+- **Python**: The primary programming language for the project.
+  ![image](https://github.com/user-attachments/assets/b17250af-2939-4522-85f9-1daadc329f4e)
+  ![image](https://github.com/user-attachments/assets/39c18bbc-b26d-40c0-8941-0728db0bf7b9)
+
+
+
+
 
 # Use case diagram:
 
